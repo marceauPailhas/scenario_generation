@@ -11,9 +11,11 @@ The project focuses on reproducing and extending the techniques described in the
 - [Overview](#overview)
 - [Paper Summary](#paper-summary)
 - [Features](#features)
+- [Data Source](#data-source)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -40,6 +42,10 @@ For more details, see the full paper [here](https://proceedings.neurips.cc/paper
 - ⚡ **Modular Design**: Easily adapt and extend the methods for new use cases.
 - 📊 **Interactive Visualization**: Analyze scenarios directly within Jupyter Notebooks.
 - 🧪 **Experimentation Ready**: Tools to experiment with variations and custom scenarios.
+
+## Data Source
+
+The data used in this project can be found at the [Argoverse Motion Forecasting Dataset](https://argoverse.github.io/user-guide/datasets/motion_forecasting.html). This dataset provides high-quality motion forecasting data that is critical for generating and testing scenarios.
 
 ## Getting Started
 
@@ -88,7 +94,24 @@ This project requires Python and Jupyter Notebook. Follow these steps to set up 
 
 4. Modify and extend the code to explore new ideas and applications.
 
+## Contributing
 
+Contributions to this project are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Make your changes and commit:
+   ```bash
+   git commit -m "Add your feature or fix description"
+   ```
+4. Push your branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
 
 ## License
 
@@ -96,5 +119,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Acknowledgments
 
-Special thanks to the authors of the paper *"Generating Scenarios for Complex Systems"* for their groundbreaking work. This implementation is inspired directly by their contributions to the field.
-
+Special thanks to the authors of the paper *"Generating Scenarios for Complex Systems"* for their groundbreaking work, and to the [Argoverse team](https://argoverse.github.io/) for providing the motion forecasting dataset.
