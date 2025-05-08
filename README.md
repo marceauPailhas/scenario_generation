@@ -94,24 +94,6 @@ This project requires Python and Jupyter Notebook. Follow these steps to set up 
 
 4. Modify and extend the code to explore new ideas and applications.
 
-## Contributing
-
-Contributions to this project are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Make your changes and commit:
-   ```bash
-   git commit -m "Add your feature or fix description"
-   ```
-4. Push your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
 
 ## License
 
