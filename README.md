@@ -119,4 +119,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Acknowledgments
 
-Special thanks to the authors of the paper *"Generating Scenarios for Complex Systems"* for their groundbreaking work, and to the [Argoverse team](https://argoverse.github.io/) for providing the motion forecasting dataset.
+Special thanks to the authors of the paper *"Generating Scenarios for Complex Systems"* for their groundbreaking work, and to the Argoverse team for providing the [motion forecasting dataset](https://argoverse.github.io/user-guide/datasets/motion_forecasting.html). 
