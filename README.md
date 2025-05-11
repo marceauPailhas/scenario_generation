@@ -15,7 +15,6 @@ The project focuses on reproducing and extending the techniques described in the
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -76,10 +75,6 @@ This project requires Python and Jupyter Notebook. Follow these steps to set up 
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-4. Install project dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
